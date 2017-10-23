@@ -67,7 +67,7 @@ rm -rf $RPM_BUILD_ROOT
 %{_libdir}/*
 
 %changelog
-* Fri Sep 15 2017 Masataka Suzuki <koshigoe@feedforce.jp> - 2.4.2
+* Fri Sep 15 2017 Masataka Suzuki <koshigoe@feedforce.jpp> - 2.4.2
 - Update ruby version to 2.4.2
 
 * Thu Mar 23 2017 Masataka Suzuki <koshigoe@feedforce.jp> - 2.4.1
